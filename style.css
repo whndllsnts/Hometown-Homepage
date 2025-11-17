@@ -16,9 +16,9 @@ img {
 
 /* hero section styles */
 .hero-main {
-  background-image: url('images/torshov.jpg');
+  background-image: url('images/tagaytay.jpg');
   background-size: cover;
-  background-position: top;
+  background-position: center;
   height: 343px;
   width: 720px;
   margin: 0 auto;
